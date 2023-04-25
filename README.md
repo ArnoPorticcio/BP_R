@@ -1,0 +1,1 @@
+les secrets sont stockés dans secrets.yaml
